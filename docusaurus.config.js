@@ -60,7 +60,7 @@ const config = {
         title: 'SwiftServe',
         logo: {
           alt: 'SwiftServe Logo',
-          src: 'img/swiftServe.png',
+          src: './img/swiftServe.png',
         },
         items: [
           {
